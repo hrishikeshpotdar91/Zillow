@@ -6,3 +6,7 @@ took help from this repo to pull the zipcode -> https://github.com/kamranahmedse
 
 otherwise the code is straight forward to understand. 
 
+Register yourself on Zillow first & don't forget to replace the APIKEY in index.php with your key. That should be it. 
+
+Contact - hrishikesh.potdar91@gmail.com
+
